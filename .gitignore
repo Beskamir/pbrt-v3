@@ -1,3 +1,9 @@
+# ignore cmake-build files
+cmake-build*
+
+
+
+# default ignores
 *~
 src/build
 src/bin
